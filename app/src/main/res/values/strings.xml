@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FacebookLoginLibrary</string>
+    <string name="facebook_app_id">add facebook app id</string>
+    <string name="facebook_client_token">firebase client token</string>
+</resources>
